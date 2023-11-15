@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1{
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: larger;
+    font-family: 'Times New Roman';
+}
+p{
+    font-size: medium;
+font-style:bold;
+}
+section{
+    margin: 0%;
+    background-color: aquamarine;
+}
+body{
+    text-align: left;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+ background-image: -moz-radial-gradient();
+}
